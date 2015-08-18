@@ -1,19 +1,4 @@
 <!DOCTYPE html>
-<!--
-Class: <CMIS485 6380 Web Database Development (2152) >
-Student Name: <David Walters>
-Instructor: <Dr. Alla Webb>
-Assignment #: Project 1
-Description: <RRE Database and PHP interactivity. >
-Due Date :<1/18/2015>
-I pledge that I have completed the programming assignment independently.
-I have not copied the code from a student or any source.
-I have not given my code to any student.
-Sign here: <David Walters>
-Additional Comments: This is the main student webpage for the project, which includes
-a table view of all the customers in the Reston Real Estate Company's customers, and a create new
-customer form, along with buttons to edit or delete a record.
--->
 <?php
    //establish database connection
    include 'databaseConnection.php';
